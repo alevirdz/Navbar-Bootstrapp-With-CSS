@@ -3,6 +3,9 @@
 Este menú es adaptable a cualquier dispositivo
 su objetivo es facilitar y agilizar el tiempo para crear un menú.
 
+# Adaptations
+Realizado en Bootstrapp 4.0, adaptarlo al Bootstrapp que se este usando.
+
 # CDN
 
 - Bootstrap CSS
